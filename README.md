@@ -44,9 +44,9 @@ D) Steps to run:
 
   Paths To check :
 
-  1. To create:http://localhost:8000/create-listItem
-  2. To update:http://localhost:8000/update-listItem/:id
-  3. To delete:http://localhost:8000/delete-listItem/:id
-  4. To read: http://localhost:8000/show-listItem
-  5. To searchbyTitle:http://localhost:8000/search-by-title?title=title_name
-  6. To searchbyPriority:http://localhost:8000/search-by-priority?priority=priority_name
+  1. To create:http://localhost:8080/create-listItem
+  2. To update:http://localhost:8080/update-listItem/:id
+  3. To delete:http://localhost:8080/delete-listItem/:id
+  4. To read: http://localhost:8080/show-listItem
+  5. To searchbyTitle:http://localhost:8080/search-by-title?title=title_name
+  6. To searchbyPriority:http://localhost:8080/search-by-priority?priority=priority_name
