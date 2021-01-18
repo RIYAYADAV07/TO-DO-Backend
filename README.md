@@ -29,10 +29,13 @@ C) DB schema:
 D) Steps to run:
 
   Prerequisite:
+  
   1.Node installed.
+  
   2.Postgres installed.
 
   Commands:
+  
   1.npm init //To initiatize 
   
   2.npm i //To install all the packages used and in json file.
