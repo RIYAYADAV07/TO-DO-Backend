@@ -17,13 +17,14 @@ B) Approach:
   
   3.Create Table model
   
-  4.Define routes and controllers performing appropriate actions
-  .
+  4.Define routes and controllers performing appropriate actions.
+  
   5.Test the application on all the aspects and for the api's created.
   
 C) DB schema:
 
   List(title,description,due_date,priority)
+  
   ID, createdAT and modifiedAT are also stored by default for all Items.
   
 D) Steps to run:
@@ -40,7 +41,7 @@ D) Steps to run:
   
   2.npm i //To install all the packages used and in json file.
   
-  3.npm run //To start the server
+  3.npm start //To start the server
 
   Paths To check :
 
