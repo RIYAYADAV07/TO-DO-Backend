@@ -1,5 +1,5 @@
 # TO-DO-Backend
-It has all the backend functionality needed to build an to-do application.
+It has all the backend functionality needed to build a to-do application.
 
 A) Assumption:
   1. It is having only the backend functionality and the result of all the operations are printed on the console as we are not rendering the output on the frontend.
